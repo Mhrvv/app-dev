@@ -8,7 +8,7 @@ Welcome to my list of favorite movies! Here are three beautiful and emotional fi
 ---
 
 ## 1. **Your Name (Kimi No Nawa)** 🌸
-![Your Name]([https://upload.wikimedia.org/wikipedia/en/c/cf/Your_Name_poster.png](https://cdn.traileraddict.com/content/madman/your-name-poster.jpg))
+![Your Name]([https://upload.wikimedia.org/wikipedia/en/c/cf/Your_Name_poster.png](https://cdn.traileraddict.com/content/madman/your-name-poster.jpg)](https://cdn.traileraddict.com/content/madman/your-name-poster.jpg))
 
 **Year:** 2016  
 **Director:** Makoto Shinkai  
