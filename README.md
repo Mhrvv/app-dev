@@ -8,7 +8,6 @@ Welcome to my list of favorite movies! Here are three beautiful and emotional fi
 ---
 
 ## 1. **Your Name (Kimi No Nawa)** 🌸
-![Your Name](https://upload.wikimedia.org/wikipedia/en/c/cf/Your_Name_poster.png](https://cdn.traileraddict.com/content/madman/your-name-poster.jpg)](https://cdn.traileraddict.com/content/madman/your-name-poster.jpg)
 
 **Year:** 2016  
 **Director:** Makoto Shinkai  
@@ -26,7 +25,6 @@ _"Your Name"_ is a beautifully animated film that follows the story of two high 
 ---
 
 ## 2. **A Silent Voice (Koe no Katachi)** 💬
-![A Silent Voice]([https://upload.wikimedia.org/wikipedia/en/0/04/A_Silent_Voice_poster.jpg](https://br.web.img3.acsta.net/pictures/17/08/07/09/59/565328.jpg))
 
 **Year:** 2016  
 **Director:** Naoko Yamada  
@@ -44,7 +42,6 @@ _A Silent Voice_ is a heartbreaking yet uplifting film that follows **Shoya Ishi
 ---
 
 ## 3. **I Want to Eat Your Pancreas** 🍃💔
-![I Want to Eat Your Pancreas]([https://upload.wikimedia.org/wikipedia/en/6/68/I_Want_to_Eat_Your_Pancreas_Poster.jpg](https://th.bing.com/th/id/OIP.tOm8jdcUbwYAg3EM5vS39gHaKe?rs=1&pid=ImgDetMain))
 
 **Year:** 2018  
 **Director:** Shin'ichirō Ushijima  
