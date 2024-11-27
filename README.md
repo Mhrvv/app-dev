@@ -8,10 +8,12 @@ Welcome to my list of favorite movies! Here are three beautiful and emotional fi
 ---
 
 ## 1. **Your Name (Kimi No Nawa)** 🌸
+![image](https://github.com/user-attachments/assets/d0d8136f-22db-48a2-b367-6028cefc512f)
 
 **Year:** 2016  
 **Director:** Makoto Shinkai  
 **Genre:** Animated, Romance, Drama  
+**Rating:** ❤❤❤❤🤍
 
 ### 📖 Synopsis:
 _"Your Name"_ is a beautifully animated film that follows the story of two high school students, **Taki** and **Mitsuha**, who inexplicably swap bodies across time and space. Set against the vibrant cityscapes of Tokyo and a quaint rural town, the film weaves a narrative about **identity**, **fate**, and **connection**. As the characters begin to form a deep bond despite the distance, the story explores themes of **self-discovery** and the threads that connect us all.
@@ -24,11 +26,19 @@ _"Your Name"_ is a beautifully animated film that follows the story of two high 
 
 ---
 
+### 🧐 Characters:
+- Taki Tachibana
+- Mitsuha Miyamizu
+
+---
+
 ## 2. **A Silent Voice (Koe no Katachi)** 💬
+![image](https://github.com/user-attachments/assets/d2f96dbf-eae6-47af-93de-81211f0ea0dc)
 
 **Year:** 2016  
 **Director:** Naoko Yamada  
 **Genre:** Animated, Drama, Romance  
+**Rating:** ❤❤❤❤❤
 
 ### 📖 Synopsis:
 _A Silent Voice_ is a heartbreaking yet uplifting film that follows **Shoya Ishida**, a former bully, as he tries to make amends with **Shoko Nishimiya**, a deaf girl he once tormented. Through their journey of redemption and healing, the film explores difficult topics like **bullying**, **mental health**, and **forgiveness**, portraying the transformative power of kindness and personal growth.
@@ -41,11 +51,19 @@ _A Silent Voice_ is a heartbreaking yet uplifting film that follows **Shoya Ishi
 
 ---
 
+### 🧐 Characters:
+- Shoya Ishida
+- Shoko Nishimiya
+
+---
+
 ## 3. **I Want to Eat Your Pancreas** 🍃💔
+![image](https://github.com/user-attachments/assets/7be96193-a90e-4028-b087-cc5792a1c31a)
 
 **Year:** 2018  
 **Director:** Shin'ichirō Ushijima  
 **Genre:** Animated, Romance, Drama  
+**Rating:** ❤❤❤❤🤍
 
 ### 📖 Synopsis:
 In _I Want to Eat Your Pancreas_, a quiet and introverted boy discovers that his classmate, **Sakura Yamauchi**, is suffering from a terminal pancreatic illness. As they form an unlikely bond, the film tells a bittersweet story of **life**, **death**, and the deep connections that can form even in the most unexpected circumstances. The movie’s title, though shocking, captures the depth of the relationship and the sacrifices people are willing to make for those they love.
@@ -55,6 +73,12 @@ In _I Want to Eat Your Pancreas_, a quiet and introverted boy discovers that his
 - Love and loss
 - Friendship and personal growth
 - Finding joy in the small moments
+
+---
+
+### 🧐 Characters:
+- Haruki Shiga
+- Sakura Yamauchi
 
 ---
 
@@ -80,5 +104,4 @@ Thank you for visiting my repository, and I hope you enjoy exploring these beaut
 Feel free to share your thoughts or your favorite movies in the comments below! 🎥🎬✨
 
 
----
 
